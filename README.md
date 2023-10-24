@@ -9,6 +9,5 @@
 
 **how to send a webhook using curl:**
 
-'''
-curl --header "Content-Type: application/json" --request POST --data '{"event":"Hello!"}' http://(EDA controller url):6000
-'''
+curl --header "Content-Type: application/json" --request POST --data '{"event":"Hello!"}' http://(EDA-controller):5000
+
