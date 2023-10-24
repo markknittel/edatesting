@@ -11,4 +11,3 @@
       condition: event.meta is defined
       action:
         debug:
-        
