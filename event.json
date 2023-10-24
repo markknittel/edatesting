@@ -1,6 +1,6 @@
 [
     {
-        "event": "help!",
-        "description": "Machine for test, please do not delete!"
+        "message": "help!",
+        "description": "Testing message"
     }
 ]
