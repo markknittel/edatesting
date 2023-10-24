@@ -30,3 +30,4 @@
       condition: event.alert is defined
       action:
         debug:
+        
