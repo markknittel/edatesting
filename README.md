@@ -9,6 +9,10 @@
 
 **how to send a webhook using curl:**
 - Using the CLI to post data:
-curl --header "Content-Type: application/json" --request POST --data '{"message":"Hello!"}' http://(EDA-controller):6000
+ -curl --header "Content-Type: application/json" --request POST --data '{"message":"Hello!"}' http://(EDA-controller):6000
 - Using a file to post data:
-curl --header "Content-Type: application/json" --request POST --data @event.json http://(EDA-controller):6000
+ -curl --header "Content-Type: application/json" --request POST --data @event.json http://(EDA-controller):6000
+
+
+
+Ref: https://github.com/cloin
